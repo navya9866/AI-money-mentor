@@ -105,22 +105,5 @@ Advanced AI financial predictions
 Mobile application
 Real-time portfolio tracking
 Personalized alerts & reminders
-🎥 Submission Requirements
-✅ GitHub Repository
-⏳ 3-Minute Demo Video
-⏳ Architecture Document
-⏳ Impact Model
-👩‍💻 Author
-
-Navya Jatoth
-
-⭐ Acknowledgment
-
-Built as part of an innovation challenge to make financial planning accessible, affordable, and intelligent for everyone.
 
 
----
-
-If you want next:
-- I can create your **Architecture Diagram (very important for selection)**
-- Or write your **3-minute pitch script (high impact)**
